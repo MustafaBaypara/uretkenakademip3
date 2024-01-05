@@ -1,9 +1,9 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
-import CustomNavbar from '../../moviepage/src/components/navbar/CustomNavbar';
+import CustomNavbar from './components/navbar/CustomNavbar';
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import MoviesPage from "../../moviepage/src/components/moviespage/MoviesPage";
-import Aboutme from "../../moviepage/src/components/aboutme/Aboutme";
+import MoviesPage from "./components/moviespage/MoviesPage";
+import Aboutme from "./components/aboutme/Aboutme";
 
 function App() {
 
