@@ -1,0 +1,30 @@
+.containar{
+    margin-top: 20px;
+    background-color: white;
+}
+
+.mb-3{
+    justify-content: center;
+    max-width: 50%;
+    margin-left:25%;
+
+}
+.box{
+    margin-left: 15%;
+    margin-right: 15%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.card{
+    margin: auto;
+    margin-top: 5%;
+    border: 1px solid black;
+}
+
+.form-control {
+    border: 1px solid black;
+}
+ 
+  
