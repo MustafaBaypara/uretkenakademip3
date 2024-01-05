@@ -11,6 +11,7 @@ function App() {
     <>
      <Router>
     <CustomNavbar />
+    <MoviesPage />
     <Routes>
       <Route path="/" element={<MoviesPage />} />
       <Route path="/moviespage" element={<MoviesPage />} />
